@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-public class OOPSBannerUC8 {
+public class OOPSbanner {
 
     public static void main(String[] args) {
         Map<Character, String[]> patternMap = buildCharacterPatternMap();
